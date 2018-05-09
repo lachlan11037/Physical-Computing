@@ -30,3 +30,5 @@
   <dd>Temperature Sensor:</dd>
   <img src="https://zippy.gfycat.com/InconsequentialPerfumedBluebird.gif" alt"" width="280" height="250">
   <dt>What does a temperature sensor do?<dt>
+  
+<dd>A temperature sensor detects the temperature in a given radius around the sensor and then displays it. This is particularly useful in growing plants or cooking food that need to be done in a set temperature enviroment as the sensor will allow you to tell what the temperature is.<dd>
