@@ -35,3 +35,9 @@
  
 # What are actuators?
 <dd>An actuator is a component of a machine that is responsible for moving and controlling a mechanism or system. They can be used to open hinges or move parts of a machine.<dd>
+ <dt>Different types of actuators:<dt>
+  <dd>Electrical Powered Actuator:</dd>
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/4f/Linear_actuator_basic.gif" alt"" width="280" height="250">
+  <dt>What does an electrical powered actuator do?<dt>
+ 
+<dd>An electric actuator is powered by a motor that converts electrical energy into mechanical torque. The electrical energy is used to actuate equipment such as multi-turn valves. Additionally, a brake is typically installed above the motor to prevent the media from opening valve.<dd>
