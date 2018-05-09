@@ -22,3 +22,5 @@
   <dt>What does a Raspberry PI do?<dt>
 
 <dd> A Raspberry Pi is a credit card-sized computer originally designed for education, inspired by the 1981 BBC Micro. The Raspberry Pi is slower than a modern laptop or desktop but is still a complete Linux computer and can provide all the expected abilities that implies, at a low-power consumption level. The Raspberry PI is basically an upgraded version of the Ardunio as it runs the exact same way it does with extended capabilities and a better microcontroller overall.<dd>
+    
+<dt>What are sensors?<dt>
