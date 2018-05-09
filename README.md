@@ -11,7 +11,7 @@
 
 <dt>Different types of micro controllers:<dt>
   <dd>Ardunio:</dd>
-  <img src=https://media.giphy.com/media/149dkstl3g53QA/source.gif" alt"" width="280" height="250">
+  <img src="https://media.giphy.com/media/149dkstl3g53QA/source.gif" alt"" width="280" height="250">
 <dt>What does an ardunio do?<dt>
   
 <dd> An ardunio 
