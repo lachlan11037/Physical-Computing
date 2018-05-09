@@ -48,3 +48,19 @@
  <dt>What does a motion actuator do?<dt>
  
 <dd>A motion actuator is an actuator that powers itself when forced into an interaction with another object, like the actuator in an auto-shutting door.<dd>
+
+# What are softwares?
+<dd>Software is a general term for the various kinds of programs used to operate computers and related devices.<dd>
+ <dt>Different types of softwares:<dt>
+  <dd>Windows:</dd>
+  <img src="https://media.giphy.com/media/7h5FhxawWqSdO/giphy.gif" alt"" width="280" height="250">
+  <dt>What does windows do?<dt>
+ 
+<dd>Windows is a group of several graphical operating system families, all of which are developed, marketed, and sold by Microsoft.<dd>
+ 
+ <dt>Different types of actuators:<dt>
+  <dd>Microsoft Word:</dd>
+  <img src="https://media.giphy.com/media/r41vjRCIwOAHm/giphy.gif" alt"" width="280" height="250">
+  <dt> What does microsoft word do?<dt>
+ 
+<dd>Microsoft Word or MS-WORD (often called Word) is a graphical word processing program that users can type with. It is made by the computer company Microsoft. Its purpose is to allow users to type and save documents. Similar to other word processors, it has helpful tools to make documents.<dd>
