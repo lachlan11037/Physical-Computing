@@ -56,7 +56,7 @@
   <img src="https://media.giphy.com/media/7h5FhxawWqSdO/giphy.gif" alt"" width="280" height="250">
   <dt>What does windows do?<dt>
  
-<dd>Windows is a group of several graphical operating system families, all of which are developed, marketed, and sold by Microsoft.<dd>
+<dd>Windows is a group of several graphical operating system families that allows any other software to be run on the operating system as long as it's supported by windows.<dd>
  
  <dt>Different types of softwares:<dt>
   <dd>Microsoft Word:</dd>
