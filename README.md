@@ -31,4 +31,4 @@
  <img src="https://zippy.gfycat.com/ContentPoorGoldfinch.gif" alt"" width="280" height="250">
  <dt>What does a motion sensor do?<dt>
  
-<dd>A motion sensor detects body heat off a living thing (animal or human) and if the body heat picked up exceeds the set rate of the alarm it triggers an event (usually a loud alarm).<dd>
+<dd>A motion sensor detects body heat (also known as infared energy) emitted from a living creature (animal or human) and if the infared energy picked up enters the set area of activation in the sensor, the sensor triggers an event (usually a loud alarm).<dd>
