@@ -17,6 +17,8 @@
 <dd> An ardunio is an open-source elctronics platform based on easy-to-use hardware and software. Ardunio boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message (are some examples of inputs) - and turn it into an output - activating a motor, turning on a LED, or publishing something online (are some examples of outputs). Ardunio's consist of both a physical programmable circuit board and a piece of software and are primarily used to write and upload computer code to the physical board.<dd>
 
 <dt>Different types of micro controllers:<dt>
-  <dd>Raspberry PI</dd>
+  <dd>Raspberry PI:</dd>
   <img src="https://media.giphy.com/media/26gR2qGRnxxXAvhBu/giphy.gif" alt"" width="280" height="250">
   <dt>What does a Raspberry PI do?<dt>
+
+<dd> A Raspberry Pi is a credit card-sized computer originally designed for education, inspired by the 1981 BBC Micro. The Raspberry Pi is slower than a modern laptop or desktop but is still a complete Linux computer and can provide all the expected abilities that implies, at a low-power consumption level.<dd>
