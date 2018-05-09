@@ -72,3 +72,4 @@ The difference between analog and digital is that analog signals are a continuou
 <dt>Chosen Fantasy Device: Mindreading Headpiece<dt>
  <dd>What is it?<dd>
 <dd>The Mindreading Headpiece would be a device that looks extremely similar to circular headphones. Once I've put both muffs on my ears, it will block out any vocalised sounds and solely enable me to listen to what someone is thinking. To choose whos mind I tune into I just have to think of their face. They could be on the other side of the world and it wouldn't matter, I would know their deepest secrets and thoughts within seconds. I would probably use this just to make mischief.<dd>
+<img src="https://cdn.myminifactory.com/assets/object-assets/579fb8595cf47/images/720X720-e7906b088aeaac04a3120239498f03252cb09fb6.jpg" alt"" width="280" height="250">
