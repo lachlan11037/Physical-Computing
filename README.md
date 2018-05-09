@@ -32,3 +32,6 @@
  <dt>What does a motion sensor do?<dt>
  
 <dd>A motion sensor detects body heat (also known as infared energy) emitted from a living creature (animal or human) within a certain area that is usually preset by the owner of the motion sensor. Once something that emits infared energy enters that area, the sensor triggers an event (usually a loud alarm).<dd>
+ 
+# What are actuators?
+<dd>An actuator is a component of a machine that is responsible for moving and controlling a mechanism or system. They can be used to open hinges or move parts of a machine.<dd>
