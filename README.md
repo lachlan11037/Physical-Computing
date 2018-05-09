@@ -1,7 +1,7 @@
 # Physical Computing Task - Lachlan Van Der Klift 10 Silver
 <dl>
   <dt>What are microcontrollers?<dt>
- 
+ <dd>A microcontroller is a small, low-cost and self contained computer-on-a-chip that can be used as an embedded system. A few microcontrollers may utilize four-bit expressions and work at clock rate frequencies.<dd>
  <dt>Different types of micro controllers:<dt>
   <dd>Microbit:</dd>
   <img src="https://codeclubprojects.org/en-GB/archived/interactive-badge-ck/images/badge-final.gif" alt"" width="280" height="250">
