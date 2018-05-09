@@ -41,3 +41,10 @@
   <dt>What does an electrical powered actuator do?<dt>
  
 <dd>An electric actuator is powered by a motor that converts electrical energy into mechanical torque. The electrical energy is used to actuate equipment such as multi-turn valves. Additionally, a brake is typically installed above the motor to prevent the media from opening valve.<dd>
+
+<dt>Different types of actuators:<dt>
+ <dd>Motion Actuator:</dd>
+ <img src="http://www.orientalmotor.com/images/applications/a_driving.gif" alt"" width="280" height="250">
+ <dt>What does a motion actuator do?<dt>
+ 
+<dd>A motion actuator is an actuator that powers itself when forced into an interaction with another object, like the actuator in an auto-shutting door.<dd>
