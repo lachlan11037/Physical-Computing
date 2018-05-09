@@ -52,14 +52,14 @@
 # What are softwares?
 <dd>Software is a general term for the various kinds of programs used to operate computers and related devices.<dd>
  <dt>Different types of softwares:<dt>
-  <dd>Windows:</dd>
+  <dd>Operating Systems (such as windows):</dd>
   <img src="https://media.giphy.com/media/7h5FhxawWqSdO/giphy.gif" alt"" width="280" height="250">
   <dt>What does windows do?<dt>
  
 <dd>Windows is a group of several graphical operating system families that allows any other software to be run on the operating system as long as it's supported by windows.<dd>
  
  <dt>Different types of softwares:<dt>
-  <dd>Microsoft Word:</dd>
+  <dd>Computer Softwares (such as microsoft word):</dd>
   <img src="https://media.giphy.com/media/r41vjRCIwOAHm/giphy.gif" alt"" width="280" height="250">
   <dt> What does microsoft word do?<dt>
  
