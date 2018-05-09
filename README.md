@@ -58,7 +58,7 @@
  
 <dd>Windows is a group of several graphical operating system families, all of which are developed, marketed, and sold by Microsoft.<dd>
  
- <dt>Different types of actuators:<dt>
+ <dt>Different types of softwares:<dt>
   <dd>Microsoft Word:</dd>
   <img src="https://media.giphy.com/media/r41vjRCIwOAHm/giphy.gif" alt"" width="280" height="250">
   <dt> What does microsoft word do?<dt>
