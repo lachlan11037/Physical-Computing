@@ -26,3 +26,7 @@
 # What are sensors?
   <dd>A sensor is a device that detects and responds to some type of input from the physical environment. The specific input could be light, heat, motion, moisture, pressure, or any one of a great number of other environmental phenomena. The output is generally a signal that is converted to human-readable display at the sensor location or transmitted electronically over a network for reading or further processing.<dd>
 
+<dt>Different types of sensors:<dt>
+  <dd>Temperature Sensor:</dd>
+  <img src="https://zippy.gfycat.com/InconsequentialPerfumedBluebird.gif" alt"" width="280" height="250">
+  <dt>What does a temperature sensor do?<dt>
